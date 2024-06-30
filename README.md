@@ -1,0 +1,1 @@
+The Bank ATM Software is a robust, user-friendly application designed to facilitate a wide range of banking transactions through Automated Teller Machines (ATMs). It ensures seamless interaction between the customer and the banking system, providing quick and secure access to various financial services.
